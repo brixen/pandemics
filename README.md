@@ -102,4 +102,4 @@ Let's collect them, socialize them, and do them.
 
 ## License
 
-This content is licensed under the terms of the "Creative Commons Zero v1.0 Universal" license. The license applies only to content here. Any linked content is licenced or copyright according to that content.
+This content is licensed under the terms of the ["Creative Commons Zero v1.0 Universal"](/LICENSE) license. The license applies only to content here. Any linked content is licenced or copyright according to that content.
