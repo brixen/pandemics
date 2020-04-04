@@ -16,11 +16,11 @@ Pandemics are complex social phenomena. The following resources cover many diffe
 
 ### Introductory Videos
 
-* [My wish: Help me stop pandemics | Larry Brilliant | TED2006](https://www.ted.com/talks/larry_brilliant_my_wish_help_me_stop_pandemics)
-* [Complexity, citizen engagement in a Post-Social Media time | David Snowden | TEDxUniversityofNicosia](https://www.youtube.com/watch?v=JkJDyPh9phc)
-* [Coronavirus Is Our Future | Alanna Shaikh | TEDxSMU](https://www.youtube.com/watch?v=Fqw-9yMV0sI)
-* [Every new pandemic starts as a mystery | David Quammen | TEDxBozeman](https://www.youtube.com/watch?v=rI11hHOya34)
-* [Epidemics and the end of humankind | Rosalind Eggo | TEDxThessaloniki](https://www.youtube.com/watch?v=GkLlqobr3PY)
+* [My wish: Help me stop pandemics](https://www.ted.com/talks/larry_brilliant_my_wish_help_me_stop_pandemics) | Larry Brilliant | TED2006
+* [Complexity, citizen engagement in a Post-Social Media time](https://www.youtube.com/watch?v=JkJDyPh9phc) | David Snowden | TEDxUniversityofNicosia
+* [Coronavirus Is Our Future](https://www.youtube.com/watch?v=Fqw-9yMV0sI) | Alanna Shaikh | TEDxSMU
+* [Every new pandemic starts as a mystery](https://www.youtube.com/watch?v=rI11hHOya34) | David Quammen | TEDxBozeman
+* [Epidemics and the end of humankind](https://www.youtube.com/watch?v=GkLlqobr3PY) | Rosalind Eggo | TEDxThessaloniki
 
 ### Pandemics
 
