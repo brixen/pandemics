@@ -73,6 +73,15 @@ An organization commited to [Ending Pandemics](https://endingpandemics.org).
 
 * [Being Ecological](https://www.goodreads.com/book/show/34640995-being-ecological)
 
+### Data Science
+
+* [The Julia Programming Language](https://julialang.org)
+* [Julia Academy](https://juliaacademy.com) online learning.
+* [Data Smart: Using Data Science to Transform Information into Insight](https://www.goodreads.com/book/show/17682206-data-smart)
+* [Julia for Data Science](https://www.goodreads.com/book/show/31084931-julia-for-data-science)
+* [Statistics with Julia:
+Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf) DRAFT Preprint
+
 ## Actions
 
 There are small, simple, local, and effective things that we as ordinary citizens can all contribute to doing to end pandemics.
