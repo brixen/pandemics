@@ -88,7 +88,13 @@ There are small, simple, local, and effective things that we as ordinary citizen
 
 Let's collect them, socialize them, and do them.
 
-### Health Systems and Healthcare
+_Note: There are many things that can improve health and well-being across the globe in times of crisis.
+
+Consider personal health to the extent possible, like stopping smoking, healthy exercise and nutrition, and maintaining community bonds. Consider donating blood, contributing to or volunteering at food donation centers, volunteering to assist those with mobility restrictions, and other activities. There are often local resources to connect you to these efforts.
+
+The focus here is durable, systemic changes to end pandemics beyond the critical actions to respond to a specific pandemic crisis._
+
+### Health Systems and Global Healthcare
 
 ### Early Detection
 
