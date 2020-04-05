@@ -10,6 +10,10 @@ Pursuing this noble goal will also help us build worldwide awareness and communi
 
 **Please contribute to improving the information here.**
 
+## Disclaimer
+
+***The information referenced here is presented AS-IS, and no warranties or claims express or implied as to its correctness, accurancy, or fitness for a particular purpose are made. You are responsible for any actions you take with respect to this information.***
+
 ## Resources
 
 Pandemics are complex social phenomena. The following resources cover many different topics that can contribute to our understanding of the many interacting factors that contribute to pandemics and how we can affect them.
